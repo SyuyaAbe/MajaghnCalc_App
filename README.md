@@ -8,5 +8,5 @@ Google 広告に関するポリシー
 https://policies.google.com/technologies/ads?hl=ja
 
 # 開発者連絡先
-Twitter : @adamu_of_FUN
+Twitter : @adamu_of_FUN  
 Mail : syuya.abe[@]gmail.com([＠]は@に変換してください)
