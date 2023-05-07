@@ -8,4 +8,4 @@ Google 広告に関するポリシー
 https://policies.google.com/technologies/ads?hl=ja
 
 # 開発者連絡先
-Mail : syuya.abe[@]gmail.com([＠]は@に変換してください)
+Mail : syuya.abe[at_mark]gmail.com(at_markは@に変えて送信してください。)
